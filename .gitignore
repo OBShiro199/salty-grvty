@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+node_modules/
+# local tooling and personal notes
+.claude/
+notes/
